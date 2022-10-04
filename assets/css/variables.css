@@ -1,0 +1,9 @@
+:root{
+    --base-color: rgb(0, 0, 0); 
+    --accent-color: rgb(126, 126, 126); 
+    --opacity-color: rgb(173, 173, 173);
+    /* use the opacity as for box or other things that needs to stand out a bit */
+
+    --base-font: 'Inconsolata', monospace;
+    --accent-font:'Tiro Telugu', serif;
+}
