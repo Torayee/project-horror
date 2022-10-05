@@ -1,9 +1,15 @@
 :root{
-    --base-color: rgb(0, 0, 0); 
-    --accent-color: rgb(126, 126, 126); 
-    --opacity-color: rgb(173, 173, 173);
-    /* use the opacity as for box or other things that needs to stand out a bit */
+    --base-color: #ffffff;
+    --accent-color: #575757;
+    --light-color: #9c9c9c;
+    --white-color: #fff;
+    --opacity-color: rgba(197, 197, 197, 0.5);
+    /* ^ using this as a opacity on the background-colors- tip use it on all backgrounds to make a prettier view*/
+    
 
-    --base-font: 'Inconsolata', monospace;
+
+    --base-font:  'Noto Sans Thai', sans-serif;
     --accent-font:'Tiro Telugu', serif;
+
+   
 }

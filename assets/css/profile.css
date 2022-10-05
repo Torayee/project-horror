@@ -1,0 +1,14 @@
+.round-img{
+    width: 15em;
+    height: 15em;
+
+    border-radius: 100%;
+    border: thick double var(--white-color);
+
+    
+    /* box-shadow: 12px 12px 2px 1px rgba(158, 158, 158, 0.2); */
+
+
+    object-fit: cover;
+}
+

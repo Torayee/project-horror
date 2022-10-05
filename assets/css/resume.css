@@ -1,0 +1,31 @@
+.resume{
+    width: 70%;
+    margin: 0 auto;
+
+    flex-direction:row;
+    flex-wrap: wrap;
+    
+    align-items: flex-start;
+    justify-content: space-evenly;
+
+    background-color: var(--opacity-color);
+
+    border-radius: 30px;
+
+    box-shadow: 12px 12px 2px 1px rgba(202, 163, 131, 0.2);
+    /* ^ for the more artistic vibe, use it around boxes with text (same with the border-radius) */
+    
+}
+
+.experience{
+    width: 70%;
+    flex-grow: 2;
+}
+
+.resume aside{
+    display: flex;
+
+    flex-grow: 0;
+    flex-direction: column;
+    gap: 2em;
+}

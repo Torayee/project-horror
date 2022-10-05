@@ -1,3 +1,6 @@
+        /* so, after food try make this look good in the way of layout- keep it simple tho, like yk simple dimple */
+/* MAKE THE DESIGN, and some fancy ass layout- like use all ya time on it- stay if needed */
+
 main, header, footer, section{
     display: flex;
 
@@ -17,3 +20,48 @@ main, header, footer, section{
 .width-70{
     width: 70%;
 }
+/* img-small is used by primally all the other picures, cuz they share about the same size (so nothing fancy just ) */
+.img-small{
+    width: 300px;
+    height: 600px;
+    object-fit: cover;
+
+    
+}
+
+.img-small img{
+    width: 100%;
+    box-shadow: 12px 12px 2px 1px rgba(207, 207, 207, 0.2);
+}
+
+.img-wide{
+    
+    width: 70%;
+    
+    height: fit-content;
+    object-fit: cover;
+    overflow: hidden;
+
+    box-shadow: 12px 12px 2px 1px rgba(204, 204, 204, 0.2);
+
+}
+/* img-wide is made for the cookie cutter picture- it aren't working yet, but the best for now */
+
+
+
+.img-paint{
+    width: 500px;
+    height: 600px;
+    object-fit: cover;
+
+}
+
+.img-paint img{
+    width: 100%;
+    box-shadow: 12px 12px 2px 1px rgba(202, 163, 131, 0.2);
+}
+/* The img sizes didn't fit the MS paint pictures- so made a new one to make it fit */
+
+
+
+

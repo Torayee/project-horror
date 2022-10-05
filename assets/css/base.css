@@ -6,8 +6,8 @@
 }   
 
 body{
-    background-color: var(--light-color);
-
+    /* background-color: var(--light-color); */
+    background-image: url(/assets/images/background-horror.jpg);
     color: var(--base-color);
     font-family: var(--base-font);
 
