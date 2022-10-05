@@ -1,8 +1,8 @@
 :root{
     --base-color: #ffffff;
-    --accent-color: #575757;
+    --accent-color: #9c9c9c;
     --light-color: #9c9c9c;
-    --white-color: #fff;
+    --white-color: rgb(0, 0, 0);
     --opacity-color: rgba(197, 197, 197, 0.5);
     /* ^ using this as a opacity on the background-colors- tip use it on all backgrounds to make a prettier view*/
     
