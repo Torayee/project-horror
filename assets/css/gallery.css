@@ -21,16 +21,23 @@
 
 .gallery article:hover{
     opacity: 0,8%;
-}
 
-.gallery article img{
+}
+/* this workes on all the images on the site */
+.gallery img{
+    width: 30vh;
+}
+ /* OPS this only work with the imagets undr the arti */
+/* .gallery article img{
     width: 100%;
     height: 30vh;
 
     object-fit: cover;
 
     gap: 5em;
-}
+} */
+
+
 
 /* .gallery1{
     width: 70%;
