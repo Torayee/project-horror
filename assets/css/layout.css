@@ -31,7 +31,7 @@ main, header, footer, section{
 
 .img-small img{
     width: 100%;
-    box-shadow: 12px 12px 2px 1px rgba(207, 207, 207, 0.2);
+    box-shadow: 12px 12px 2px 1px rgba(85, 12, 12, 0.2);
 }
 
 .img-wide{
@@ -42,7 +42,7 @@ main, header, footer, section{
     object-fit: cover;
     overflow: hidden;
 
-    box-shadow: 12px 12px 2px 1px rgba(204, 204, 204, 0.2);
+    box-shadow: 12px 12px 2px 1px rgba(100, 54, 54, 0.2);
 
 }
 /* img-wide is made for the cookie cutter picture- it aren't working yet, but the best for now */

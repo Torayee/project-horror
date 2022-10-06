@@ -1,9 +1,9 @@
 :root{
-    --base-color: #ffffff;
-    --accent-color: #9c9c9c;
+    --base-color: #f3eaea;
+    --accent-color: #e7dede;
     --light-color: #9c9c9c;
     --white-color: rgb(0, 0, 0);
-    --opacity-color: rgba(197, 197, 197, 0.5);
+    --opacity-color: rgba(99, 75, 75, 0.39);
     /* ^ using this as a opacity on the background-colors- tip use it on all backgrounds to make a prettier view*/
     
 

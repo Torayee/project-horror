@@ -1,6 +1,6 @@
 .gallery{
     width: 70%;
-    margin: 0 auto;
+    margin: 5% auto;
 
     flex-direction: row;
 
@@ -9,9 +9,9 @@
 
     background-color: var(--opacity-color);
 
-    border-radius: 30px;
+    border-radius: 15px;
 
-    box-shadow: 10px 10px 2px 1px rgba(202, 163, 131, 0.2);
+    box-shadow: 10px 10px 2px 1px rgba(58, 5, 5, 0.2);
     
 }
 
@@ -32,7 +32,7 @@
     gap: 5em;
 }
 
-.gallery1{
+/* .gallery1{
     width: 70%;
     margin: 0 auto;
 
@@ -47,4 +47,4 @@
 
     box-shadow: 10px 10px 2px 1px rgba(209, 209, 209, 0.2);
     
-}
+} */
