@@ -27,6 +27,14 @@
 .gallery img{
     width: 30vh;
 }
+
+
+.row {
+    
+
+    flex-direction:column;
+
+}
  /* OPS this only work with the imagets undr the arti */
 /* .gallery article img{
     width: 100%;
