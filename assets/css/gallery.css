@@ -1,6 +1,7 @@
 .gallery{
     width: 70%;
-    margin: 5% auto;
+    margin-left: auto;
+    margin-right: auto;
 
     flex-direction: row;
 
@@ -31,7 +32,6 @@
 
 .row {
     
-
     flex-direction:column;
 
 }
