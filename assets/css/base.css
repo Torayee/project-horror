@@ -38,3 +38,11 @@ a:hover{
 ul{
     list-style: none;
 }
+
+h4{
+    color: var(--accent-color);
+    font-family: var(--accent-font);
+    font-size: 4em;
+    text-shadow: 15%;
+    
+}
